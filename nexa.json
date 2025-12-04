@@ -1,0 +1,1540 @@
+[
+  {
+    "name": "Advan Soulmate",
+    "brand": "Advan",
+    "price": 2400000,
+    "cpu": "Celeron N4020",
+    "ram": 4,
+    "storage": "128GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 5,
+    "screen": "HD",
+    "fitur": []
+  },
+  {
+    "name": "Zyrex Chromebook M4",
+    "brand": "Zyrex",
+    "price": 2800000,
+    "cpu": "Celeron N4020",
+    "ram": 4,
+    "storage": "64GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 11,
+    "screen": "HD",
+    "fitur": [
+      "ChromeOS"
+    ]
+  },
+  {
+    "name": "Axioo Mybook Hype 1",
+    "brand": "Axioo",
+    "price": 2900000,
+    "cpu": "Celeron N4020",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Samsung Chromebook 4",
+    "brand": "Samsung",
+    "price": 3500000,
+    "cpu": "Celeron N4020",
+    "ram": 4,
+    "storage": "32GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.18,
+    "battery": 12,
+    "screen": "HD",
+    "fitur": [
+      "ChromeOS"
+    ]
+  },
+  {
+    "name": "HP 245 G9",
+    "brand": "HP",
+    "price": 3800000,
+    "cpu": "Athlon Silver",
+    "ram": 4,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.5,
+    "battery": 7,
+    "screen": "HD",
+    "fitur": []
+  },
+  {
+    "name": "Lenovo Ideapad Slim 1",
+    "brand": "Lenovo",
+    "price": 4500000,
+    "cpu": "Ryzen 3",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Asus Vivobook Go 14",
+    "brand": "Asus",
+    "price": 5200000,
+    "cpu": "Ryzen 3",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Infinix INBook X2",
+    "brand": "Infinix",
+    "price": 6200000,
+    "cpu": "Core i3",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.24,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Acer Aspire 3 Slim",
+    "brand": "Acer",
+    "price": 6800000,
+    "cpu": "Core i3",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Advan Workplus",
+    "brand": "Advan",
+    "price": 7000000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Lenovo IdeaPad Slim 3",
+    "brand": "Lenovo",
+    "price": 7500000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "MSI Modern 14",
+    "brand": "MSI",
+    "price": 8500000,
+    "cpu": "Core i5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Asus Vivobook 14 OLED",
+    "brand": "Asus",
+    "price": 8900000,
+    "cpu": "Core i5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "OLED",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Huawei MateBook D14",
+    "brand": "Huawei",
+    "price": 8900000,
+    "cpu": "Core i5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.38,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "HP Pavilion 14",
+    "brand": "HP",
+    "price": 9200000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Dell Inspiron 14",
+    "brand": "Dell",
+    "price": 9800000,
+    "cpu": "Core i5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.5,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Microsoft Surface Laptop Go 2",
+    "brand": "Microsoft",
+    "price": 9900000,
+    "cpu": "Core i5",
+    "ram": 8,
+    "storage": "128GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.12,
+    "battery": 13,
+    "screen": "PixelSense",
+    "fitur": [
+      "Touchscreen",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Acer Swift 3 OLED",
+    "brand": "Acer",
+    "price": 10500000,
+    "cpu": "Core i5-H",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.2,
+    "battery": 10,
+    "screen": "2.8K",
+    "fitur": [
+      "OLED",
+      "100% DCI-P3",
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Acer Aspire 5 Gaming",
+    "brand": "Acer",
+    "price": 10800000,
+    "cpu": "Core i5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "RTX 2050",
+    "weight": 1.8,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": [
+      "144Hz"
+    ]
+  },
+  {
+    "name": "Axioo Pongo 725",
+    "brand": "Axioo",
+    "price": 10900000,
+    "cpu": "Core i7",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "RTX 3050",
+    "weight": 2,
+    "battery": 5,
+    "screen": "FHD",
+    "fitur": [
+      "144Hz"
+    ]
+  },
+  {
+    "name": "Lenovo Yoga Slim 6",
+    "brand": "Lenovo",
+    "price": 11000000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "100% sRGB",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Lenovo IdeaPad Gaming 3",
+    "brand": "Lenovo",
+    "price": 11500000,
+    "cpu": "Ryzen 5-H",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "RTX 2050",
+    "weight": 2.2,
+    "battery": 5,
+    "screen": "FHD",
+    "fitur": [
+      "120Hz",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Book3",
+    "brand": "Samsung",
+    "price": 11500000,
+    "cpu": "Core i5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.57,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "MSI Thin GF63",
+    "brand": "MSI",
+    "price": 11800000,
+    "cpu": "Core i5-H",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "RTX 2050",
+    "weight": 1.8,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": [
+      "144Hz"
+    ]
+  },
+  {
+    "name": "Apple Macbook Air M1",
+    "brand": "Apple",
+    "price": 12500000,
+    "cpu": "Apple M1",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.24,
+    "battery": 18,
+    "screen": "Retina",
+    "fitur": [
+      "macOS",
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Asus TUF Gaming F15",
+    "brand": "Asus",
+    "price": 12500000,
+    "cpu": "Core i5-H",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "RTX 2050",
+    "weight": 2.2,
+    "battery": 5,
+    "screen": "FHD",
+    "fitur": [
+      "144Hz",
+      "RGB Keyboard"
+    ]
+  },
+  {
+    "name": "HP Victus 15",
+    "brand": "HP",
+    "price": 12800000,
+    "cpu": "Core i5-H",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "RTX 3050",
+    "weight": 2.3,
+    "battery": 5,
+    "screen": "FHD",
+    "fitur": [
+      "144Hz",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "HP Envy x360",
+    "brand": "HP",
+    "price": 12800000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "100% sRGB"
+    ]
+  },
+  {
+    "name": "Asus Zenbook 14X OLED",
+    "brand": "Asus",
+    "price": 13000000,
+    "cpu": "Core i5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 10,
+    "screen": "2.8K",
+    "fitur": [
+      "OLED",
+      "100% DCI-P3",
+      "Touchscreen"
+    ]
+  },
+  {
+    "name": "Dell Vostro 5320",
+    "brand": "Dell",
+    "price": 13500000,
+    "cpu": "Core i5-P",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.25,
+    "battery": 8,
+    "screen": "QHD+",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Lenovo Yoga 7i",
+    "brand": "Lenovo",
+    "price": 14000000,
+    "cpu": "Core i5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 10,
+    "screen": "2.2K",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "100% sRGB"
+    ]
+  },
+  {
+    "name": "Asus Vivobook Pro 14 OLED",
+    "brand": "Asus",
+    "price": 14500000,
+    "cpu": "Core i5-H",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "RTX 3050",
+    "weight": 1.5,
+    "battery": 6,
+    "screen": "2.8K",
+    "fitur": [
+      "OLED",
+      "100% DCI-P3",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Microsoft Surface Pro 9",
+    "brand": "Microsoft",
+    "price": 15000000,
+    "cpu": "Core i5",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 0.88,
+    "battery": 15,
+    "screen": "PixelSense",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "120Hz"
+    ]
+  },
+  {
+    "name": "Asus Zenbook S 13 OLED",
+    "brand": "Asus",
+    "price": 15500000,
+    "cpu": "Ryzen 7",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "Integrated",
+    "weight": 1,
+    "battery": 14,
+    "screen": "2.8K",
+    "fitur": [
+      "OLED",
+      "100% DCI-P3",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Apple Macbook Air M2",
+    "brand": "Apple",
+    "price": 16500000,
+    "cpu": "Apple M2",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.24,
+    "battery": 18,
+    "screen": "Liquid Retina",
+    "fitur": [
+      "macOS",
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "LG Gram 14",
+    "brand": "LG",
+    "price": 17000000,
+    "cpu": "Core i7",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 0.99,
+    "battery": 16,
+    "screen": "WQXGA",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Razer Blade 14",
+    "brand": "Razer",
+    "price": 25000000,
+    "cpu": "Ryzen 9-HX",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "RTX 3060",
+    "weight": 1.78,
+    "battery": 7,
+    "screen": "QHD",
+    "fitur": [
+      "165Hz",
+      "RGB Keyboard"
+    ]
+  },
+  {
+    "name": "Dell XPS 13",
+    "brand": "Dell",
+    "price": 18000000,
+    "cpu": "Core i7",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.17,
+    "battery": 12,
+    "screen": "FHD+",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Lenovo Legion Slim 5",
+    "brand": "Lenovo",
+    "price": 19000000,
+    "cpu": "Ryzen 7-H",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "RTX 4050",
+    "weight": 2.3,
+    "battery": 6,
+    "screen": "QHD",
+    "fitur": [
+      "165Hz",
+      "RGB Keyboard"
+    ]
+  },
+  {
+    "name": "Asus ROG Zephyrus G14",
+    "brand": "Asus",
+    "price": 22000000,
+    "cpu": "Ryzen 7-HS",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "RTX 3050",
+    "weight": 1.6,
+    "battery": 8,
+    "screen": "QHD",
+    "fitur": [
+      "120Hz",
+      "100% DCI-P3"
+    ]
+  },
+  {
+    "name": "Samsung Galaxy Book3 Pro 360",
+    "brand": "Samsung",
+    "price": 21000000,
+    "cpu": "Core i7-P",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.66,
+    "battery": 12,
+    "screen": "Dynamic AMOLED 2X",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "120Hz",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Microsoft Surface Laptop Studio",
+    "brand": "Microsoft",
+    "price": 24000000,
+    "cpu": "Core i7-H",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "RTX 3050 Ti",
+    "weight": 1.82,
+    "battery": 10,
+    "screen": "PixelSense Flow",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "120Hz"
+    ]
+  },
+  {
+    "name": "Asus ProArt Studiobook 16",
+    "brand": "Asus",
+    "price": 28000000,
+    "cpu": "Core i7-H",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "RTX 3060",
+    "weight": 2.4,
+    "battery": 6,
+    "screen": "4K OLED",
+    "fitur": [
+      "OLED",
+      "100% DCI-P3",
+      "Stylus Support",
+      "Asus Dial"
+    ]
+  },
+  {
+    "name": "Acer Predator Helios Neo 16",
+    "brand": "Acer",
+    "price": 20000000,
+    "cpu": "Core i7-HX",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "RTX 4060",
+    "weight": 2.6,
+    "battery": 5,
+    "screen": "QHD+",
+    "fitur": [
+      "165Hz",
+      "RGB Keyboard"
+    ]
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
+    "price": 26000000,
+    "cpu": "Core i7-P",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.12,
+    "battery": 15,
+    "screen": "WUXGA",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard",
+      "TrackPoint"
+    ]
+  },
+  {
+    "name": "HP Spectre x360",
+    "brand": "HP",
+    "price": 19500000,
+    "cpu": "Core i7",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "Integrated",
+    "weight": 1.34,
+    "battery": 12,
+    "screen": "FHD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "OLED"
+    ]
+  },
+  {
+    "name": "Gigabyte AERO 16 OLED",
+    "brand": "Gigabyte",
+    "price": 27000000,
+    "cpu": "Core i7-H",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "RTX 4060",
+    "weight": 1.9,
+    "battery": 6,
+    "screen": "4K UHD+ OLED",
+    "fitur": [
+      "OLED",
+      "100% DCI-P3"
+    ]
+  },
+  {
+    "name": "MSI Katana 15",
+    "brand": "MSI",
+    "price": 16000000,
+    "cpu": "Core i7-H",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "RTX 4050",
+    "weight": 2.25,
+    "battery": 5,
+    "screen": "FHD",
+    "fitur": [
+      "144Hz",
+      "RGB Keyboard"
+    ]
+  },
+  {
+    "name": "Asus ROG Flow X13",
+    "brand": "Asus",
+    "price": 18500000,
+    "cpu": "Ryzen 9-HS",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "RTX 3050",
+    "weight": 1.3,
+    "battery": 8,
+    "screen": "WUXGA",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "120Hz"
+    ]
+  },
+  {
+    "name": "Dell Alienware m16",
+    "brand": "Dell",
+    "price": 30000000,
+    "cpu": "Core i9-HX",
+    "ram": 16,
+    "storage": "1TB SSD",
+    "gpu": "RTX 4070",
+    "weight": 3.25,
+    "battery": 4,
+    "screen": "QHD+",
+    "fitur": [
+      "240Hz",
+      "RGB Keyboard"
+    ]
+  },
+  {
+    "name": "Zyrex Sky 232",
+    "brand": "Zyrex",
+    "price": 1950000,
+    "cpu": "Celeron N4000",
+    "ram": 4,
+    "storage": "64GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 5,
+    "screen": "HD",
+    "fitur": []
+  },
+  {
+    "name": "Advan Soulmate Celeron",
+    "brand": "Advan",
+    "price": 2100000,
+    "cpu": "Celeron N4020",
+    "ram": 4,
+    "storage": "128GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.45,
+    "battery": 6,
+    "screen": "HD",
+    "fitur": []
+  },
+  {
+    "name": "Axioo Mybook Hype 10",
+    "brand": "Axioo",
+    "price": 2300000,
+    "cpu": "Celeron N4020",
+    "ram": 4,
+    "storage": "128GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.35,
+    "battery": 6,
+    "screen": "HD",
+    "fitur": []
+  },
+  {
+    "name": "Lenovo Ideapad D330",
+    "brand": "Lenovo",
+    "price": 2500000,
+    "cpu": "Celeron N4020",
+    "ram": 4,
+    "storage": "128GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.1,
+    "battery": 8,
+    "screen": "HD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen"
+    ]
+  },
+  {
+    "name": "HP Stream 11",
+    "brand": "HP",
+    "price": 2600000,
+    "cpu": "Celeron N4500",
+    "ram": 4,
+    "storage": "64GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.2,
+    "battery": 9,
+    "screen": "HD",
+    "fitur": []
+  },
+  {
+    "name": "Acer Chromebook 311",
+    "brand": "Acer",
+    "price": 2750000,
+    "cpu": "Celeron N4500",
+    "ram": 4,
+    "storage": "64GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.2,
+    "battery": 12,
+    "screen": "HD",
+    "fitur": [
+      "ChromeOS"
+    ]
+  },
+  {
+    "name": "Zyrex Sky 360",
+    "brand": "Zyrex",
+    "price": 3100000,
+    "cpu": "Celeron N4020",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.5,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen"
+    ]
+  },
+  {
+    "name": "Infinix INBook Y1 Plus",
+    "brand": "Infinix",
+    "price": 3200000,
+    "cpu": "Celeron N5100",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.7,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Advan Workpro",
+    "brand": "Advan",
+    "price": 3300000,
+    "cpu": "Celeron N5100",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Axioo Mybook Hype 3",
+    "brand": "Axioo",
+    "price": 3500000,
+    "cpu": "Core i3-1005G1",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Lenovo V14 G2",
+    "brand": "Lenovo",
+    "price": 3700000,
+    "cpu": "Athlon Silver",
+    "ram": 4,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 6,
+    "screen": "HD",
+    "fitur": []
+  },
+  {
+    "name": "Asus Chromebook C425",
+    "brand": "Asus",
+    "price": 3800000,
+    "cpu": "Core m3-8100Y",
+    "ram": 8,
+    "storage": "64GB eMMC",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 10,
+    "screen": "FHD",
+    "fitur": [
+      "ChromeOS",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "HP Laptop 14s",
+    "brand": "HP",
+    "price": 3900000,
+    "cpu": "Athlon Silver",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.47,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Acer Aspire 3 Spin",
+    "brand": "Acer",
+    "price": 4000000,
+    "cpu": "Celeron N5100",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.5,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen"
+    ]
+  },
+  {
+    "name": "Axioo Mybook Hype 5",
+    "brand": "Axioo",
+    "price": 4100000,
+    "cpu": "Core i3-1005G1",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Acer Aspire Lite 14",
+    "brand": "Acer",
+    "price": 3600000,
+    "cpu": "Celeron N5100",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.5,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Lenovo Ideapad Slim 3i",
+    "brand": "Lenovo",
+    "price": 4200000,
+    "cpu": "Core i3-1115G4",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.45,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "HP Laptop 15s",
+    "brand": "HP",
+    "price": 4400000,
+    "cpu": "Ryzen 3",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.7,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Asus Vivobook E1404",
+    "brand": "Asus",
+    "price": 4600000,
+    "cpu": "Core i3-N305",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Dell Vostro 3400",
+    "brand": "Dell",
+    "price": 4800000,
+    "cpu": "Core i3-1115G4",
+    "ram": 4,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Infinix INBook X3 Slim",
+    "brand": "Infinix",
+    "price": 5000000,
+    "cpu": "Core i3-1115G4",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.24,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard",
+      "100% sRGB"
+    ]
+  },
+  {
+    "name": "MSI Modern 14 (Ryzen 3)",
+    "brand": "MSI",
+    "price": 5300000,
+    "cpu": "Ryzen 3",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.3,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Acer Aspire 3 (Ryzen 5)",
+    "brand": "Acer",
+    "price": 5500000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Lenovo V14 G3",
+    "brand": "Lenovo",
+    "price": 5700000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "HP 14-em (Ryzen 5)",
+    "brand": "HP",
+    "price": 5900000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Asus Vivobook 14 (i3-1215U)",
+    "brand": "Asus",
+    "price": 6000000,
+    "cpu": "Core i3-1215U",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Dell Inspiron 15 (Ryzen 5)",
+    "brand": "Dell",
+    "price": 6200000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.7,
+    "battery": 6,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Lenovo Ideapad Slim 3 (i3-1215U)",
+    "brand": "Lenovo",
+    "price": 6300000,
+    "cpu": "Core i3-1215U",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.45,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Acer Aspire 5 Slim",
+    "brand": "Acer",
+    "price": 6400000,
+    "cpu": "Core i5-1135G7",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Asus Vivobook 14 (i5-1135G7)",
+    "brand": "Asus",
+    "price": 6500000,
+    "cpu": "Core i5-1135G7",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "HP 240 G9",
+    "brand": "HP",
+    "price": 6600000,
+    "cpu": "Core i3-1215U",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.47,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": []
+  },
+  {
+    "name": "Lenovo Thinkbook 14 G4",
+    "brand": "Lenovo",
+    "price": 6700000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Asus Vivobook 14 (i5-1235U)",
+    "brand": "Asus",
+    "price": 6900000,
+    "cpu": "Core i5-1235U",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Acer Swift Go 14",
+    "brand": "Acer",
+    "price": 7100000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.25,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "HP Pavilion 14 (i5-1235U)",
+    "brand": "HP",
+    "price": 7300000,
+    "cpu": "Core i5-1235U",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.41,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "Lenovo Yoga Slim 6i",
+    "brand": "Lenovo",
+    "price": 7600000,
+    "cpu": "Core i5-1240P",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.35,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "100% sRGB",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Asus Vivobook S 14 Flip",
+    "brand": "Asus",
+    "price": 7800000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.5,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support"
+    ]
+  },
+  {
+    "name": "Dell Inspiron 14 5425",
+    "brand": "Dell",
+    "price": 8000000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "256GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.54,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Acer Aspire 5 (i5-1235U)",
+    "brand": "Acer",
+    "price": 8100000,
+    "cpu": "Core i5-1235U",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.7,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "HP Pavilion Aero 13 (Ryzen 5)",
+    "brand": "HP",
+    "price": 8200000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 0.97,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard",
+      "100% sRGB"
+    ]
+  },
+  {
+    "name": "Lenovo Ideapad 5",
+    "brand": "Lenovo",
+    "price": 8300000,
+    "cpu": "Core i5-1135G7",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Asus Zenbook 14 (i5-1135G7)",
+    "brand": "Asus",
+    "price": 8400000,
+    "cpu": "Core i5-1135G7",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.17,
+    "battery": 10,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard",
+      "100% sRGB"
+    ]
+  },
+  {
+    "name": "Dell Inspiron 14 (i5-1235U)",
+    "brand": "Dell",
+    "price": 8600000,
+    "cpu": "Core i5-1235U",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.5,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "HP Pavilion Plus 14",
+    "brand": "HP",
+    "price": 8700000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 8,
+    "screen": "2.2K",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Acer Swift 3 (i5-1240P)",
+    "brand": "Acer",
+    "price": 9000000,
+    "cpu": "Core i5-1240P",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.2,
+    "battery": 10,
+    "screen": "QHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard",
+      "100% sRGB"
+    ]
+  },
+  {
+    "name": "Lenovo Yoga 6",
+    "brand": "Lenovo",
+    "price": 9300000,
+    "cpu": "Ryzen 5",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.37,
+    "battery": 9,
+    "screen": "FHD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support",
+      "Fingerprint"
+    ]
+  },
+  {
+    "name": "MSI Modern 15 (i7-1195G7)",
+    "brand": "MSI",
+    "price": 9500000,
+    "cpu": "Core i7-1195G7",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Asus Vivobook 14 (i5-1240P)",
+    "brand": "Asus",
+    "price": 9600000,
+    "cpu": "Core i5-1240P",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  },
+  {
+    "name": "Dell Inspiron 14 2-in-1",
+    "brand": "Dell",
+    "price": 9700000,
+    "cpu": "Ryzen 5",
+    "ram": 8,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.6,
+    "battery": 7,
+    "screen": "FHD",
+    "fitur": [
+      "2-in-1",
+      "Touchscreen",
+      "Stylus Support"
+    ]
+  },
+  {
+    "name": "HP Pavilion 14 (i5-1335U)",
+    "brand": "HP",
+    "price": 9900000,
+    "cpu": "Core i5-1335U",
+    "ram": 16,
+    "storage": "512GB SSD",
+    "gpu": "Integrated",
+    "weight": 1.4,
+    "battery": 8,
+    "screen": "FHD",
+    "fitur": [
+      "Fingerprint",
+      "Backlit Keyboard"
+    ]
+  }
+]
