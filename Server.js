@@ -52,7 +52,7 @@ connectDB();
 // 1. ROOT (cek server hidup)
 // ===============================
 app.get("/", (req, res) => {
-  res.send("Nexa API berjalan 👍");
+  res.send("Laptofy API berjalan 👍");
 });
 
 // ===============================

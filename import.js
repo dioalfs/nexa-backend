@@ -5,7 +5,7 @@ const fs = require('fs');
 const uri = "mongodb+srv://dioikacg_db_user:4xZiyRmPmANmneGB@cluster0.trxbszg.mongodb.net/?appName=Cluster0";
 
 const client = new MongoClient(uri);
-const jsonFilePath = 'nexa.json';
+const jsonFilePath = 'laptofy.json';
 
 async function importData() {
   try {
@@ -13,7 +13,7 @@ async function importData() {
     await client.connect();
     console.log("✅ Terhubung!");
     
-    const db = client.db("nexa_db");
+    const db = client.db("laptofy_db");
     const collection = db.collection("laptops");
 
     // 1. Baca file JSON lokal

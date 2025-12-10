@@ -10,7 +10,7 @@ async function createAdmin() {
         await client.connect();
         console.log("✅ Terhubung ke Cloud...");
         
-        const db = client.db("nexa_db");
+        const db = client.db("laptofy_db");
         const users = db.collection("users");
 
         // Data Admin
